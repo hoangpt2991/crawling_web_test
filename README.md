@@ -3,4 +3,4 @@
 --Requirement: ,Python 3.5, pip install scrapy (module for crawling)
 
 
-Command to run: scrapy crawl ione -o export_file.csv
+Command to run inside folder <spiders>: scrapy crawl ione -o export_file.csv
